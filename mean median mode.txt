@@ -1,0 +1,44 @@
+60, 70, 80, 80, 85, 90, 100
+7 students marks
+
+
+overall performance?
+middle students ?
+score appeared
+
+    mean                                     median                                               mode
+mean means average value             meadian means middle value                mode means most repeated number or coming again and again
+
+
+mean = (x1 +x2 + ...........xn)          
+
+
+
+meadian = (if odd count the we calculate middle value) ,(id even values the we have to take the average of middle 2 values)
+
+mode = Most repeated value
+
+-----------------
+
+q1 = score = 10,20,30
+mean 
+add = 10 + 20 + 30 = 60
+count = 3
+mean = 60/3 = 20
+
+median = 20
+
+mode = all values is unique so here is no any mode
+
+
+q2 = 20, 70, 70, 90, 45, 76, 99, 88
+
+mean
+add = 20 + 70 + 70 + 90 + 45 + 76 + 99 + 88 = 558
+count = 8
+mean = 558/8 = 69.75
+
+median = 67.5
+
+mode = 70
+
