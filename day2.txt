@@ -1,0 +1,44 @@
+acctual value y_true = what really happened
+predicted value y_pred = what out model thinks will happen 
+
+data : [25,27,30,28,29,32,3000]
+here outlier is 3000
+
+---------------------
+precentage 
+
+60 run ,100 balls
+60:100 ratio
+60% strike rate 
+
+
+-------------
+accuracy = (Corrected predictions/Total Predictions) * 100
+
+precision = (True Positives/Total Predictive Positive)
+
+Recall = (True Positives/Total actual positives)
+
+percentage - out of 100 - matlab kitna hua
+ratio - comparision between two numbers
+a:b a/b
+
+p = (Part/Whole) * 100
+
+ratio = part/whole
+
+
+suppose humne ek span detector banaye or usme 100 email aaye usme une 100 emails check kara
+
+total email = 100
+correct spam marked = 90
+wrong marked = 10
+
+accuracy = (90/100) * 100 = 90%
+
+
+========================
+suppose out of 20 emails are predicted as a spam usme se sirf 15 actual me spam the.
+matlab 5 the he nahie 
+
+precision  = 15/20 = 0.75 = 75% accuracy is 75%
