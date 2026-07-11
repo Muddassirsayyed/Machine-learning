@@ -1,0 +1,27 @@
+SUPPOSE I AM HR IN AMY COMPANY AND A PERSON IN MY COMPANY WORK 
+AND I GIVE HIM 
+
+500rs daily income
+1000rs joining bonus (Fixed for everyone)
+
+day 0 - 1000rs joining bonus
+day 1 - 1500 rs
+day 2 - 2000rs
+day 3 - 2500rs
+
+the equation is y = mx + b
+
+here y = final salary , that we are gon a predict /////// # in machine learning we called it output/result 
+
+x = days worked , input that we know
+
+m = 500/day ,rate of change per unit of x
+
+b = 1000rs bonus, starting point x = 0
+
+y = 500 * x + 1000
+
+4  days worked person predicted value is 
+
+y = 500 * 4 + 1000
+y = 3000rs predicted salary
