@@ -1,0 +1,42 @@
+plotting x vs y
+
+
+
+------------------
+vectors
+
+hight =  170cm  
+weight = 65kg
+
+[170,65]
+
+
+-----------------------------
+
+Standard Daviation
+
+SUPPOSE
+
+there is class          A                   and           Class B 
+
+                   agar mene class a                    or class be me 
+                   ko padhaya usme se                   subke marks thode alag hai
+                   kuch baccho ne score                 matlab door door jaise 
+                   kara 70,72,68 marks                   60,70,90 marks
+
+                   isme common chiz ye                   isme data bohot zadya faila hua 
+                   hai ki subke marks                    hai     spread out hai 
+                   70 se close hai 
+
+
+
+
+
+                   Data kitna zadya spread out hai ye standard daviation batata hai
+
+
+class A
+60,62,61,59
+
+Class B
+70,20,30,40
